@@ -16,3 +16,6 @@ yarn dev
 ó
 npm run dev
 ```
+
+git branch nombre-rama
+git merge rama-origen
