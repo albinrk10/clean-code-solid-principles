@@ -28,6 +28,9 @@ git config --global user.email "tu@email.com"
 ```
 git checkout -b nombre-rama
 ```
+```
+git push -u origin nombre-de-tu-rama
+```
 
 ## Cambiar de rama
 ```
